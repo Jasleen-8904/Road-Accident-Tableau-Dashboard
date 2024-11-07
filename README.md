@@ -27,15 +27,15 @@ The dashboard is based on compiled data from verified traffic and road safety re
 ## Tableau Public Link
 To access the dashboard online, visit: https://public.tableau.com/app/profile/jasleen.kaur7442/viz/RoadAccidentDashboard_17308305171660/Dashboard1 🌐
 
-## 🤝 Contributing
+## Contributing
 
-Contributions are welcome! If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
+Contributions are welcome! If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome. 🤝 
 
-## 📧 Contact
+## Contact
 
 Feel free to reach out with any questions or suggestions:
 
-- Jasleen (Project Maintainer) - [GitHub Profile](https://github.com/Jasleen-8904)
+- Jasleen (Project Maintainer) - [GitHub Profile](https://github.com/Jasleen-8904) 📧
 
 ---
 
